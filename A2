@@ -1,7 +1,7 @@
-|1|`<mark>`
-|2|`<del>`
-|3|`<sub>`
-|4|`<sup>`
-|5|`<small>`
-|6|`<em>`
-|7|`<ins>` 
+|1|`<mark>` |B| Texto remarcado
+|2|`<del>` |A| Texto tachado
+|3|`<sub>` |E| Texto en subindice
+|4|`<sup>` |F| Texto en superindice
+|5|`<small>` |D| Texto mas pequeño
+|6|`<em>` |C| Texto enfatizado
+|7|`<ins>` |G| Texto insertado
