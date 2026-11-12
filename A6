@@ -1,0 +1,5 @@
+<h1>Resumen de la jornada</h1>            < se ve un titulo grande y en negrita >
+<p>Ha ganado el equipo local.<br>El rival se despide del torneo.</p>              < El mismo parrafo se ve en dos lineas 
+<hr>              < Dibuja un linea horizontal de lado a lado >
+<h4>Próximo partido</h4>        < Titulo negro pero pequeño >
+<p>Sábado a las 18:00</p>      < Parrafo normal > 
